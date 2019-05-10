@@ -1,4 +1,12 @@
-<a name="1" target="_blank"></a>
+<a name="1" id="1" target="_blank"></a> <span id="1"></span>
+<a name="2" id="2" target="_blank"></a> <span id="2"></span>
+<a name="3" id="3" target="_blank"></a> <span id="3"></span>
+<a name="4" id="4" target="_blank"></a> <span id="4"></span>
+<a name="5" id="5" target="_blank"></a> <span id="5"></span>
+<a name="6" id="6" target="_blank"></a> <span id="6"></span>
+<a name="7" id="7" target="_blank"></a> <span id="7"></span>
+<a name="8" id="8" target="_blank"></a> <span id="8"></span>
+<a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/szzd1/1/master/t/fq1.jpg"><br>
 本页简易网址:https://git.io/l*
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
@@ -13,24 +21,12 @@
 <p><a href="https://git.io/vAonz">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
-<p><a href="https://git.io/fjJ5Z">九评共产党</a></p>
-<p><a href="https://git.io/fjJ5n">大纪元社论</a></p>
-<p><a href="https://git.io/fjJ5c">大纪元大陆新闻</a></p>
-<p><a href="https://git.io/fjJ5l">新唐人中国时局 </a></p>
-<p><a href="https://git.io/fjJ54">新唐人大陆新闻</a></p>
-<p><a href="https://git.io/fjJ5R">世界各地新闻</a></p>
-<hr>
-<img src="https://raw.githubusercontent.com/szzd1/1/master/t/a.JPG">
-<p>逐一点击，你一定会成功翻墙</p>
-      <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/show.htm?from=852" rel="nofollow">入口</a><br>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=852" rel="nofollow">入口</a><br>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=852" rel="nofollow">入口</a>
-      <a href="https://s3-ap-northeast-1.amazonaws.com/ogatet/show.htm?from=852" rel="nofollow">入口</a><br>
+<p><a target="_blank" href="https://git.io/fjJ5Z">九评共产党</a></p>
+<p><a target="_blank" href="https://git.io/fjmgE">大纪元大陆时事</a></p>
+<p><a target="_blank" href="https://git.io/fj3Go">大纪元全球热点</a></p>
+<p><a target="_blank" href="https://git.io/fjOvK">大纪元时事评论</a></p>
+<p><a target="_blank" href="https://git.io/fjCWz">大纪元中华正统文化</a></p>
+<p><a target="_blank" href="https://git.io/fjJ5R">世界各地新闻</a></p>
 <hr>
 <h1>
 <p><strong>数点梅花天地春</strong></p>
